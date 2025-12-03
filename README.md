@@ -18,7 +18,7 @@ Then you're left with several ways to run this bot.
 If you want to run this code from source, you can just `git clone` this repo.
 It's recommended to create a new virtual environment (`python3 -m venv /path/to/venv`).
 This bot uses the [python-telegram-bot](https://python-telegram-bot.org/) framework to make Telegram API calls.
-You can install it (and potential other requlrements) like that:
+You can install it (and potential other requirements) like that:
 
 ``pip install -r requirements.txt``
 
@@ -29,3 +29,8 @@ This project also contains a `Dockerfile` as well as a pre-built [Docker image](
 
 You will also find the `docker-compose.yml` file with which you can easily set up your own instance of the bot.
 Just specify the path to your config etc. in said docker-compose file.
+
+## Contact
+- [Twitter](https://x.com/blacksky_jose)
+- [Telegram](https://t.me/blacksky_jose)
+- [Discord](https://discord.gg/blacksky_jose)
