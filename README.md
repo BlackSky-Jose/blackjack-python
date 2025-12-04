@@ -31,6 +31,6 @@ You will also find the `docker-compose.yml` file with which you can easily set u
 Just specify the path to your config etc. in said docker-compose file.
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
